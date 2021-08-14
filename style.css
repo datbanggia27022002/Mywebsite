@@ -49,23 +49,31 @@ body{
 }
 #section-first{
     padding-top:20%;
+    padding-left:5px;
+    padding-right:5px;
 }
 
 #section-second{
+    padding-left:5px;
+    padding-right:5px;
    
 }
 
 #section-third{
-  
+    padding-left:5px;
+    padding-right:5px;
 }
 
 #section-fourth{
-   
+   padding-left:5px;
+    padding-right:5px;
 
 }
 
 #section-fifth{
     padding-top: 30px;
+    padding-left:5px;
+    padding-right:5px;
 }
 
 /*#section-sixth{
