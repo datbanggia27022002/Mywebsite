@@ -1,5 +1,6 @@
 body{
-    background-color:#d5a5aa;
+    background-image: url(./232839195_263568598622045_3745830674191590803_n.jpg);
+    background-size: cover;
 }
 
 /*.section-contain{
@@ -18,8 +19,8 @@ body{
     width: 100%;
     font-family: cursive;
     font-weight:normal;
-    color:#fff   ;
-    font-size: 16px; 
+    color:pink  ;
+    font-size: 14px; 
 }
 
 #video{
@@ -47,18 +48,19 @@ body{
 
 }
 #section-first{
+    padding-top:20%;
 }
 
 #section-second{
-   padding-top: 10px;
+   
 }
 
 #section-third{
-  padding-top: 10px;
+  
 }
 
 #section-fourth{
-    padding-top: 20px;
+   
 
 }
 
