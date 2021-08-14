@@ -1,0 +1,143 @@
+body{
+    background-color:#d5a5aa;
+}
+
+/*.section-contain{
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background-image: url('./2982bca484b473ea2aa5.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}*/
+
+.content{ 
+    
+    width: 100%;
+    font-family: cursive;
+    font-weight:normal;
+    color:#fff   ;
+    font-size: 16px; 
+}
+
+#video{
+    width: 100%;
+    position:fixed;
+    z-index: 1;  
+    display: none;
+    opacity: 0.9;
+    z-index: 3;  
+}
+
+#section-video{
+    width: 100%;
+}
+
+.section-text{
+    font-family: monospace ;
+    position:absolute;
+    /*display: inline-block;*/
+    width: 100%;
+    /*margin-top: 110%;*/
+    /*bottom: 0%;*/
+    font-weight: bold;
+    padding-top: 30px;
+
+}
+#section-first{
+}
+
+#section-second{
+   padding-top: 10px;
+}
+
+#section-third{
+  padding-top: 10px;
+}
+
+#section-fourth{
+    padding-top: 20px;
+
+}
+
+#section-fifth{
+    padding-top: 30px;
+}
+
+/*#section-sixth{
+    padding-top: 10px;
+    text-align: right;
+    font-size: 18px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(206, 90, 125);
+}*/
+
+#image-gift{
+    position:absolute;
+    height: 300px;
+    top: 300px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: block;
+}
+
+#section-start{
+    position: absolute;
+    color:violet;
+    font-family: cursive;
+    font-weight: bold;
+    /*top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;*/
+    width: 100%;
+    height: 100%;
+    background-image: url('./background-dong-don-gian-ma-dep.gif');
+    background-size: cover;
+    z-index: 2;
+    display: block;
+    opacity: 1;
+}
+
+#section-start1{
+    position: absolute;
+    color:#d5a5aa;
+   
+    /*top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;*/
+    width: 100%;
+    height: 100%;
+    background-image: url('./background-dong-don-gian-ma-dep.gif');
+    background-size: cover;
+    z-index: 2;
+    display: block;
+    opacity: 0.1;
+}
+
+#section-start2{
+    position: absolute;
+    
+    width: 100%;
+    height: 100%;
+    background-image: url('./background-dong-don-gian-ma-dep.gif');
+    background-size: cover;
+    z-index: 2;
+    display: block;
+    opacity: 1;
+}
+
+#text-first{
+    cursor: pointer;
+}
+
+#disappear{
+    display: none;
+}
+
+
+
+
