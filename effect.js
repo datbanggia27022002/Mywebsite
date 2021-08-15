@@ -7,8 +7,8 @@ var z=0;
 var vid=document.getElementById("section-video");
 var sound=document.getElementById("section-sound");
 var noiDung1="Chịu khó đọc hết nhé  đây là công sức ngày tháng vật vã mấy tháng nay mà bé Đạt đã mày mò để chúc mừng sinh nhật chị đấy *♫♫*. • . ☆ ...";
-var noiDung2="Hôm nay ngày 16/8/2021 ,tất cả những người sinh ra vào ngày này 20 năm trước đều vô cùng tuyệt vời nhưng có lẽ đối với em chị là người tuyệt vời nhất đấy 😍😍😍😍";
-var noiDung3="Vì vậy nên ngày hôm nay hãy cho em xem nụ cười tuyệt vời trong ngày sinh nhật của chị nè (¯`v´¯)😝😝";
+var noiDung2="Hôm nay ngày 16/8/2021 ,tất cả những người sinh ra vào ngày này 20 năm trước đều vô cùng tuyệt vời nhưng có lẽ đối với em chị là người tuyệt vời nhất đấy 😍😍😍";
+var noiDung3="Vì vậy nên ngày hôm nay hãy cho em xem nụ cười tuyệt vời trong ngày sinh nhật của chị nè (¯`v´¯)😝😝😝😝";
 var noiDung4=" CHÚC MỪNG SINH NHẬT CHỊ ✖‿✖!!!";
 var noiDung5="🎂";
 //var noiDung6="520 <3";
@@ -86,7 +86,7 @@ setTimeout(hieuungdanhchu4,(tocdo*noiDung1.length+tocdo*noiDung2.length+tocdo*no
 setTimeout(hieuungdanhchu5,(tocdo*noiDung1.length+tocdo*noiDung2.length+tocdo*noiDung3.length+tocdo*noiDung4.length)*1.3);
 //setTimeout(hieuungdanhchu6,(tocdo*noiDung1.length+tocdo*noiDung2.length+tocdo*noiDung3.length+tocdo*noiDung4.length+tocdo*noiDung5.length)*1.3);
 ///*setTimeout(*/document.getElementById('section-start').style.display="none"/*,10000);*/
-setTimeout(videoappear,43000);
+setTimeout(videoappear,42000);
 document.getElementById('image-gift').setAttribute("id","disappear");
 }
 
