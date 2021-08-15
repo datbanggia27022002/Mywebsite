@@ -86,7 +86,7 @@ setTimeout(hieuungdanhchu4,(tocdo*noiDung1.length+tocdo*noiDung2.length+tocdo*no
 setTimeout(hieuungdanhchu5,(tocdo*noiDung1.length+tocdo*noiDung2.length+tocdo*noiDung3.length+tocdo*noiDung4.length)*1.3);
 //setTimeout(hieuungdanhchu6,(tocdo*noiDung1.length+tocdo*noiDung2.length+tocdo*noiDung3.length+tocdo*noiDung4.length+tocdo*noiDung5.length)*1.3);
 ///*setTimeout(*/document.getElementById('section-start').style.display="none"/*,10000);*/
-setTimeout(videoappear,41000);
+setTimeout(videoappear,43000);
 document.getElementById('image-gift').setAttribute("id","disappear");
 }
 
