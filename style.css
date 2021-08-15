@@ -17,7 +17,7 @@ body{
 .content{ 
     
     width: 100%;
-    font-family: cursive;
+    /*font-family: cursive;*/
     font-weight:normal;
     color:pink  ;
     font-size: 14px; 
@@ -102,7 +102,7 @@ body{
 #section-start{
     position: absolute;
     color:violet;
-    font-family: cursive;
+    /*font-family: cursive;*/
     font-weight: bold;
     /*top: 0;
     right: 0;
